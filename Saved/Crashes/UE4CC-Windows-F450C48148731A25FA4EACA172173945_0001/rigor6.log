@@ -1,0 +1,1183 @@
+﻿Log file open, 04/21/21 01:40:46
+LogInit: Display: Running engine for game: rigor6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168543
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-9100F CPU @ 3.60GHz, GPU: Radeon RX 570 Series
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:549][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:556][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.20-22.40.46:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.20-22.40.46:557][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.20-22.40.46:557][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.20-22.40.46:557][  0]LogHAL: Display: Platform has ~ 8 GB [8535732224 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.20-22.40.46:557][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.20-22.40.46:557][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.20-22.40.46:558][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Scalability.ini]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.20-22.40.46:559][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/samet/Documents/RigorGame/rigor6/Saved/Config/Windows/Engine.ini]
+[2021.04.20-22.40.46:559][  0]LogInit: Computer: BONCUK
+[2021.04.20-22.40.46:559][  0]LogInit: User: Boncuk
+[2021.04.20-22.40.46:559][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.04.20-22.40.46:559][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.20-22.40.46:559][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.04.20-22.40.46:559][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.20-22.40.46:559][  0]LogMemory: Process Physical Memory: 117.59 MB used, 117.59 MB peak
+[2021.04.20-22.40.46:559][  0]LogMemory: Process Virtual Memory: 95.56 MB used, 95.56 MB peak
+[2021.04.20-22.40.46:559][  0]LogMemory: Physical Memory: 6960.65 MB used,  1179.66 MB free, 8140.31 MB total
+[2021.04.20-22.40.46:559][  0]LogMemory: Virtual Memory: 5128.78 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.04.20-22.40.46:564][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.20-22.40.46:593][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.20-22.40.46:594][  0]LogInit: Using OS detected language (tr-TR).
+[2021.04.20-22.40.46:594][  0]LogInit: Using OS detected locale (tr-TR).
+[2021.04.20-22.40.46:606][  0]LogTextLocalizationManager: No localization for 'tr-TR' exists, so 'en' will be used for the language.
+[2021.04.20-22.40.46:769][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.20-22.40.46:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.20-22.40.46:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.20-22.40.46:909][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.20-22.40.46:909][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.20-22.40.46:909][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.20-22.40.46:909][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.20-22.40.46:983][  0]LogD3D11RHI:    0. 'Radeon RX 570 Series' (Feature Level 11_0)
+[2021.04.20-22.40.46:983][  0]LogD3D11RHI:       4075/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.04.20-22.40.46:986][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.20-22.40.46:986][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.20-22.40.46:986][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.20-22.40.46:994][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.20-22.40.46:994][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.04.20-22.40.46:994][  0]LogWindows: EnumDisplayDevices:
+[2021.04.20-22.40.46:994][  0]LogWindows:    0. 'Radeon RX 570 Series' (P:1 D:1)
+[2021.04.20-22.40.46:995][  0]LogWindows:    1. 'Radeon RX 570 Series' (P:0 D:1)
+[2021.04.20-22.40.46:995][  0]LogWindows:    2. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:995][  0]LogWindows:    3. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:996][  0]LogWindows:    4. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:996][  0]LogWindows:    5. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:996][  0]LogWindows:    6. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:997][  0]LogWindows:    7. 'Radeon RX 570 Series' (P:0 D:0)
+[2021.04.20-22.40.46:997][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.04.20-22.40.46:997][  0]LogD3D11RHI:     Adapter Name: Radeon RX 570 Series
+[2021.04.20-22.40.46:997][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.12.1 (internal:27.20.14501.28009, unified:27.20.14501.28009)
+[2021.04.20-22.40.46:997][  0]LogD3D11RHI:      Driver Date: 12-4-2020
+[2021.04.20-22.40.46:997][  0]LogRHI: Texture pool is 2425 MB (70% of 3464 MB)
+[2021.04.20-22.40.47:100][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.20-22.40.47:100][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.20-22.40.47:100][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.20-22.40.47:112][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.04.20-22.40.47:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.20-22.40.47:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.20-22.40.47:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.20-22.40.47:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.20-22.40.47:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.20-22.40.47:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.20-22.40.47:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.20-22.40.47:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.20-22.40.47:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.20-22.40.47:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.20-22.40.47:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.20-22.40.47:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.20-22.40.47:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.20-22.40.47:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.20-22.40.47:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.20-22.40.47:508][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.20-22.40.47:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.20-22.40.47:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.20-22.40.47:533][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.20-22.40.47:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.20-22.40.47:542][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.20-22.40.47:549][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.20-22.40.47:606][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (C:/Users/samet/Documents/RigorGame/rigor6/Intermediate/Shaders/WorkingDirectory/2568/).
+[2021.04.20-22.40.47:606][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/samet/AppData/Local/Temp/UnrealShaderWorkingDir/059CEF664EA2D78F44E0C4808531E17A/'.
+[2021.04.20-22.40.47:606][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.04.20-22.40.47:606][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.20-22.40.47:606][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.20-22.40.48:269][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: Loaded boot cache 0.07s 76MB C:/Users/samet/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/samet/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/samet/Documents/RigorGame/rigor6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/samet/Documents/RigorGame/rigor6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.20-22.40.48:338][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.20-22.40.48:347][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.20-22.40.48:347][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.20-22.40.48:347][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.20-22.40.48:348][  0]LogDerivedDataCache: Using Local data cache path C:/Users/samet/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.20-22.40.48:348][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.20-22.40.48:348][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.20-22.40.48:393][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.20-22.40.48:393][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.20-22.40.48:416][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.04.20-22.40.50:248][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.20-22.40.50:346][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.20-22.40.50:346][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.20-22.40.50:346][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.20-22.40.50:346][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.20-22.40.50:346][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.20-22.40.50:363][  0]LogNetVersion: rigor6 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1460990381)
+[2021.04.20-22.40.50:735][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001B3C98E9340), frame # 0
+[2021.04.20-22.40.50:735][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B3C984AAC0), frame # 0
+[2021.04.20-22.40.50:736][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B3C9899E00), frame # 0
+[2021.04.20-22.40.50:782][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.041027 seconds
+[2021.04.20-22.40.50:787][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.04.20-22.40.50:787][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.04.20-22.40.50:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.20-22.40.51:095][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.20-22.40.51:099][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.20-22.40.51:172][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.51:172][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.51:176][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.51:179][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.51:185][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.51:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.20-22.40.51:430][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.20-22.40.51:430][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.20-22.40.51:474][  0]LogOcInput: OculusInput pre-init called
+[2021.04.20-22.40.51:483][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.20-22.40.51:483][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.20-22.40.51:537][  0]LogEngine: Initializing Engine...
+[2021.04.20-22.40.51:539][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.20-22.40.51:539][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.20-22.40.51:540][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.20-22.40.51:670][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.20-22.40.51:678][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.20-22.40.51:678][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B3D5A83C00), frame # 0
+[2021.04.20-22.40.51:678][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B3D5ADBB00), frame # 0
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-22.40.51:700][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-22.40.51:700][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-22.40.51:700][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-22.40.51:711][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-22.40.51:711][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-22.40.51:744][  0]LogAudioMixer: Display: Using Audio Device Kulaklıklar (High Definition Audio Device)
+[2021.04.20-22.40.51:750][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-22.40.51:752][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-22.40.51:752][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-22.40.51:753][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-22.40.51:754][  0]LogInit: FAudioDevice initialized.
+[2021.04.20-22.40.51:754][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.20-22.40.51:821][  0]LogDerivedDataCache: Saved boot cache 0.07s 76MB C:/Users/samet/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.04.20-22.40.51:823][  0]LogInit: Texture streaming: Enabled
+[2021.04.20-22.40.51:838][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.20-22.40.51:838][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.20-22.40.51:840][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.20-22.40.51:941][  0]LogInit: Transaction tracking system initialized
+[2021.04.20-22.40.51:960][  0]BlueprintLog: New page: Editor Load
+[2021.04.20-22.40.52:021][  0]LocalizationService: Localization service is disabled
+[2021.04.20-22.40.52:145][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.04.20-22.40.52:145][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.20-22.40.52:262][  0]LogFileCache: Scanning file cache for directory 'C:/Users/samet/Documents/RigorGame/rigor6/Content/' took 0.00s
+[2021.04.20-22.40.52:454][  0]SourceControl: Source control is disabled
+[2021.04.20-22.40.52:454][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.115
+[2021.04.20-22.40.52:454][  0]Cmd: MAP LOAD FILE="C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.20-22.40.52:456][  0]LightingResults: New page: Lighting Build
+[2021.04.20-22.40.52:457][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.40.52:457][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.40.52:457][  0]MapCheck: New page: Map Check
+[2021.04.20-22.40.52:457][  0]LightingResults: New page: Lighting Build
+[2021.04.20-22.40.52:464][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B3D5A83C00), frame # 0
+[2021.04.20-22.40.52:464][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B3D5ADBB00), frame # 0
+[2021.04.20-22.40.52:465][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.20-22.40.52:481][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:481][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:481][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:481][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:504][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Blueprint/FirstPersonCharacter.uasset' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:504][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Blueprint/FirstPersonCharacter.uasset' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:508][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Blueprint/FirstPersonCharacter.uasset' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:508][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Blueprint/FirstPersonCharacter.uasset' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:510][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:510][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:510][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:510][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:515][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:515][  0]LoadErrors: Failed to load /Game/el.el Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2021.04.20-22.40.52:515][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap' failed to load '/Game/el': Can't find file.
+[2021.04.20-22.40.52:515][  0]LoadErrors: Failed to load /Game/el.el Referenced by SkeletalMeshComponent_8__FC42DFE8
+[2021.04.20-22.40.52:716][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:716][  0]LoadErrors: Failed to load /Game/Material_003.Material_003 Referenced by kazan1
+[2021.04.20-22.40.52:716][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:716][  0]LoadErrors: Failed to load /Game/Material_003.Material_003 Referenced by kazan1
+[2021.04.20-22.40.52:716][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:716][  0]LoadErrors: Failed to load /Game/Material_003.Material_003 Referenced by kazan1
+[2021.04.20-22.40.52:716][  0]LogLinker: Warning: While loading 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/kazan1.uasset' failed to load '/Game/Material_003': Can't find file.
+[2021.04.20-22.40.52:716][  0]LoadErrors: Failed to load /Game/Material_003.Material_003 Referenced by kazan1
+[2021.04.20-22.40.52:911][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.20-22.40.52:911][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B3C2D1D600), frame # 0
+[2021.04.20-22.40.52:911][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B3C2D98B80), frame # 0
+[2021.04.20-22.40.52:920][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.20-22.40.52:934][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.04.20-22.40.52:934][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.20-22.40.52:935][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,171ms to complete.
+[2021.04.20-22.40.52:935][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.480
+[2021.04.20-22.40.52:937][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.597
+[2021.04.20-22.40.53:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.40.53:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.40.53:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.40.53:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.40.53:151][  0]LogCollectionManager: Loaded 0 collections in 0.000657 seconds
+[2021.04.20-22.40.53:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Collections/' took 0.00s
+[2021.04.20-22.40.53:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Developers/Boncuk/Collections/' took 0.00s
+[2021.04.20-22.40.53:171][  0]LogFileCache: Scanning file cache for directory 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Collections/' took 0.00s
+[2021.04.20-22.40.53:171][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 3427 classes and 821 folders.
+[2021.04.20-22.40.53:185][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.20-22.40.53:370][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.20-22.40.53:400][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.20-22.40.53:403][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.20-22.40.53:407][  0]LogSlate: Took 0.001227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.20-22.40.53:474][  0]LogRenderer: Reallocating scene render targets to support 1480x612 Format 10 NumSamples 1 (Frame:1).
+[2021.04.20-22.40.53:614][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.20-22.40.53:614][  0]LogLoad: (Engine Initialization) Total time: 8.28 seconds
+[2021.04.20-22.40.53:614][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.20-22.40.53:651][  0]LogAssetRegistry: Asset discovery search completed in 5.2359 seconds
+[2021.04.20-22.40.53:654][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.04.20-22.40.53:656][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.20-22.40.53:723][  0]LogSlate: Took 0.001370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.20-22.40.53:730][  0]LogSlate: Took 0.000937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.20-22.40.56:378][305]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.40.56:381][305]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.41.05:742][826]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.20-22.41.05:772][826]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\İndirilenler\hand (1).fbx)
+[2021.04.20-22.41.05:788][826]LogFbx: Loading FBX Scene from D:\İndirilenler\hand (1).fbx
+[2021.04.20-22.41.05:810][826]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.20-22.41.09:716][826]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.20-22.41.09:738][826]LogFbx: Valid bind pose for Pose (fps_hadns_v2) - FPS_Hands_V2
+[2021.04.20-22.41.09:846][826]LogMaterial: Display: Material /Game/Hands_V2.Hands_V2 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.04.20-22.41.09:847][826]LogMaterial: Display: Missing cached shader map for material Hands_V2, compiling. 
+[2021.04.20-22.41.09:900][826]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.04.20-22.41.09:900][826]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.04.20-22.41.09:900][826]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.04.20-22.41.09:901][826]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\mehme\Downloads\uploads_files_252860_FPS+Hands_V2.9x\Textures_V2\Normal_map_V2.png
+[2021.04.20-22.41.09:902][826]LogMaterial: Display: Missing cached shader map for material Hands_V2, compiling. 
+[2021.04.20-22.41.09:927][826]LogFbx: Warning: Bones digested - 58  Depth of hierarchy - 10
+[2021.04.20-22.41.10:118][826]LogSkeletalMesh: Section 0: 2570 vertices, 46 active bones
+[2021.04.20-22.41.10:119][826]LogSkeletalMesh: Section 0: Material=0, 3790 triangles
+[2021.04.20-22.41.10:121][826]LogSkeletalMesh: Building Skeletal Mesh hand__1_...
+[2021.04.20-22.41.10:196][826]LogSkeletalMesh: Section 0: 2570 vertices, 46 active bones
+[2021.04.20-22.41.10:197][826]LogSkeletalMesh: Section 0: Material=0, 3790 triangles
+[2021.04.20-22.41.10:202][826]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/hand__1_.hand__1_
+[2021.04.20-22.41.10:210][826]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2021.04.20-22.41.10:210][826]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.41.10:210][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.41.10:215][826]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.41.10:215][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.41.10:226][826]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.20-22.41.12:707][ 13]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.41.12:709][ 13]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.41.13:724][ 89]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/hand__1_.hand__1_
+[2021.04.20-22.41.13:740][ 89]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.04.20-22.41.13:993][ 89]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.20-22.41.14:002][ 89]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0006 seconds. Added 1 classes and 0 folders.
+[2021.04.20-22.41.14:201][ 89]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.20-22.41.14:600][ 89]LogSlate: Took 0.003178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.20-22.41.14:658][ 89]LogRenderer: Reallocating scene render targets to support 1480x924 Format 10 NumSamples 1 (Frame:1).
+[2021.04.20-22.41.16:722][183]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.04.20-22.41.18:190][278]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2021.04.20-22.41.18:542][298]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.04.20-22.41.21:882][506]LogSlate: Window 'hand__1_' being destroyed
+[2021.04.20-22.41.21:890][506]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.41.21:890][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.41.25:420][842]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.04.20-22.41.26:507][960]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.04.20-22.41.28:196][145]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.04.20-22.41.29:829][325]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.04.20-22.41.31:046][460]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.04.20-22.41.40:507][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blacksmith__2__Shop)
+[2021.04.20-22.41.41:131][612]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (hand__1_)
+[2021.04.20-22.41.49:891][602]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-22.41.49:909][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-22.41.49:921][602]PIE: New page: PIE session: FirstPersonExampleMap (21 Nis 2021 04:41:49)
+[2021.04.20-22.41.49:924][602]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.20-22.41.49:927][602]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.20-22.41.49:928][602]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.41.49:946][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017524s)
+[2021.04.20-22.41.49:948][602]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.20-22.41.49:949][602]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B418146600), frame # 4602
+[2021.04.20-22.41.49:949][602]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B4153C6840), frame # 4602
+[2021.04.20-22.41.49:949][602]LogPlayLevel: PIE: World Init took: (0.001821s)
+[2021.04.20-22.41.49:949][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021096s)
+[2021.04.20-22.41.49:960][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-22.41.49:964][602]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-22.41.49:964][602]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-22.41.49:964][602]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-22.41.49:969][602]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-22.41.49:969][602]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-22.41.49:985][602]LogAudioMixer: Display: Using Audio Device Kulaklıklar (High Definition Audio Device)
+[2021.04.20-22.41.49:985][602]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-22.41.49:985][602]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-22.41.49:985][602]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-22.41.49:985][602]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-22.41.49:998][602]LogInit: FAudioDevice initialized.
+[2021.04.20-22.41.50:013][602]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-22.41.50:016][602]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.21-01.41.50
+[2021.04.20-22.41.50:020][602]LogWorld: Bringing up level for play took: 0.005161
+[2021.04.20-22.41.50:021][602]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.04.20-22.41.50:052][602]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.20-22.41.50:059][602]PIE: Server logged in
+[2021.04.20-22.41.50:061][602]PIE: Play in editor total start time 0,16 seconds.
+[2021.04.20-22.41.51:689][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.41.51:690][783]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.41.51:690][783]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.41.51:690][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.41.51:697][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-22.41.51:698][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.41.51:725][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.41.51:726][783]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B418146600), frame # 4783
+[2021.04.20-22.41.51:726][783]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B4153C6840), frame # 4783
+[2021.04.20-22.41.51:727][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.20-22.41.51:757][784]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.04.20-22.41.52:393][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blacksmith__2__Shop)
+[2021.04.20-22.41.53:986][ 19]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (hand__1_)
+[2021.04.20-22.41.55:264][159]Cmd: DELETE
+[2021.04.20-22.41.55:264][159]Cmd: ACTOR DELETE
+[2021.04.20-22.41.55:290][159]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.20-22.41.55:298][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.20-22.41.55:300][159]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.04.20-22.42.03:268][ 45]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.04.20-22.42.10:574][649]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/hand__1_.hand__1_
+[2021.04.20-22.42.10:579][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.20-22.42.10:656][649]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.20-22.43.05:459][348]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.20-22.43.05:685][348]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.04.20-22.43.06:584][348]LogSlate: Took 0.001415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.20-22.43.28:897][702]LogEditorViewport: Clicking on Actor (LMB): Blacksmith__2__Cube_005_Blueprint_C (Blacksmith__2__Cube_005_Blueprint)
+[2021.04.20-22.43.29:432][761]LogEditorViewport: Clicking on Actor (LMB): Blacksmith__2__Cube_005_Blueprint_C (Blacksmith__2__Cube_005_Blueprint)
+[2021.04.20-22.43.29:870][811]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2021.04.20-22.43.45:337][422]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.43.45:337][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.43.59:040][251]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/hand__1__Skeleton.hand__1__Skeleton
+[2021.04.20-22.43.59:046][251]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.20-22.43.59:063][251]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.20-22.44.00:589][339]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/hand__1__PhysicsAsset.hand__1__PhysicsAsset
+[2021.04.20-22.44.00:613][339]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.04.20-22.44.00:633][339]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.04.20-22.44.04:503][549]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.44.04:503][549]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.44.05:157][588]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.44.05:157][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.44.09:385][845]LogSlate: Window 'hand__1_' being destroyed
+[2021.04.20-22.44.09:401][845]LogSlate: Window 'hand__1_' being destroyed
+[2021.04.20-22.44.09:402][845]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.44.09:402][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.44.16:230][588]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-22.44.16:240][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.20-22.44.16:240][588]PIE: New page: PIE session: FirstPersonExampleMap (21 Nis 2021 04:44:16)
+[2021.04.20-22.44.16:277][588]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.44.16:297][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019837s)
+[2021.04.20-22.44.16:298][588]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.20-22.44.16:298][588]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B446251A00), frame # 14588
+[2021.04.20-22.44.16:298][588]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B446081300), frame # 14588
+[2021.04.20-22.44.16:299][588]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2021.04.20-22.44.16:299][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.021524s)
+[2021.04.20-22.44.16:373][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-22.44.16:377][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-22.44.16:377][588]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-22.44.16:377][588]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-22.44.16:384][588]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-22.44.16:384][588]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-22.44.16:401][588]LogAudioMixer: Display: Using Audio Device Kulaklıklar (High Definition Audio Device)
+[2021.04.20-22.44.16:401][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-22.44.16:401][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-22.44.16:401][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-22.44.16:402][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-22.44.16:413][588]LogInit: FAudioDevice initialized.
+[2021.04.20-22.44.16:424][588]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-22.44.16:426][588]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.21-01.44.16
+[2021.04.20-22.44.16:426][588]LogWorld: Bringing up level for play took: 0.001729
+[2021.04.20-22.44.16:426][588]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.04.20-22.44.16:429][588]PIE: Server logged in
+[2021.04.20-22.44.16:429][588]PIE: Play in editor total start time 0,19 seconds.
+[2021.04.20-22.44.25:248][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.44.25:248][635]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.44.25:248][635]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.44.25:248][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.44.25:260][635]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-22.44.25:263][635]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.44.25:300][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.44.25:305][635]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B446251A00), frame # 15635
+[2021.04.20-22.44.25:305][635]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B446081300), frame # 15635
+[2021.04.20-22.44.25:323][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.20-22.44.25:352][636]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.04.20-22.44.26:722][796]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (hand__1_)
+[2021.04.20-22.44.27:838][926]Cmd: DELETE
+[2021.04.20-22.44.27:838][926]Cmd: ACTOR DELETE
+[2021.04.20-22.44.27:840][926]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2021.04.20-22.44.27:855][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.04.20-22.44.27:857][926]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.04.20-22.44.47:782][889]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/FirstPersonCharacter.FirstPersonCharacter
+[2021.04.20-22.45.12:294][627]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-22.45.12:305][627]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.20-22.45.12:306][627]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.04.20-22.45.12:389][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.04.20-22.45.12:390][627]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2021.04.20-22.45.12:390][627]PIE: New page: PIE session: FirstPersonExampleMap (21 Nis 2021 04:45:12)
+[2021.04.20-22.45.12:391][627]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.45.12:407][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017330s)
+[2021.04.20-22.45.12:409][627]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.20-22.45.12:409][627]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B4185C8400), frame # 20627
+[2021.04.20-22.45.12:409][627]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B426B6CF40), frame # 20627
+[2021.04.20-22.45.12:409][627]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2021.04.20-22.45.12:409][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019230s)
+[2021.04.20-22.45.12:428][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-22.45.12:429][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-22.45.12:429][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-22.45.12:430][627]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-22.45.12:430][627]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-22.45.12:435][627]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-22.45.12:435][627]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-22.45.12:452][627]LogAudioMixer: Display: Using Audio Device Kulaklıklar (High Definition Audio Device)
+[2021.04.20-22.45.12:452][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-22.45.12:452][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-22.45.12:452][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-22.45.12:453][627]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-22.45.12:464][627]LogInit: FAudioDevice initialized.
+[2021.04.20-22.45.12:500][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.45.12:501][627]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-22.45.12:504][627]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.21-01.45.12
+[2021.04.20-22.45.12:504][627]LogWorld: Bringing up level for play took: 0.001996
+[2021.04.20-22.45.12:504][627]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.04.20-22.45.12:508][627]PIE: Server logged in
+[2021.04.20-22.45.12:509][627]PIE: Play in editor total start time 0,206 seconds.
+[2021.04.20-22.45.49:088][959]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.45.49:088][959]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.45.49:088][959]LogSlate: Window 'rigor6 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.04.20-22.45.49:093][959]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.45.49:093][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.45.49:100][959]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-22.45.49:105][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.45.49:144][959]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B426B6CF40), frame # 24959
+[2021.04.20-22.45.49:144][959]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B4185C8400), frame # 24959
+[2021.04.20-22.45.49:147][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.04.20-22.45.49:193][960]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.04.20-22.47.09:512][827]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.47.09:512][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.47.21:657][562]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\İndirilenler\battleaxe.fbx)
+[2021.04.20-22.47.21:670][562]LogFbx: Loading FBX Scene from D:\İndirilenler\battleaxe.fbx
+[2021.04.20-22.47.21:679][562]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.20-22.47.22:853][562]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.20-22.47.22:898][562]LogFbxMaterialImport: Display: Unable to find Texture file D:\Demirci\barrelTex-Recovered.png
+[2021.04.20-22.47.22:899][562]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2021.04.20-22.47.22:910][562]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2021.04.20-22.47.22:917][562]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.04.20-22.47.22:917][562]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.20-22.47.22:917][562]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.20-22.47.22:924][562]LogMaterial: Display: Missing cached shader map for material Material_028, compiling. 
+[2021.04.20-22.47.22:939][562]LogMaterial: Display: Missing cached shader map for material Material_029, compiling. 
+[2021.04.20-22.47.22:952][562]LogMaterial: Display: Missing cached shader map for material Malzeme_002, compiling. 
+[2021.04.20-22.47.22:964][562]LogMaterial: Display: Missing cached shader map for material Malzeme_003, compiling. 
+[2021.04.20-22.47.22:991][562]LogFbx: Display: Triangulating static mesh BattleAxeHandle
+[2021.04.20-22.47.23:172][562]LogStaticMesh: Building static mesh battleaxe...
+[2021.04.20-22.47.23:216][562]LogStaticMesh: Built static mesh [0.04s] /Game/battleaxe.battleaxe
+[2021.04.20-22.47.23:247][562]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.20-22.47.24:675][617]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2021.04.20-22.47.26:471][746]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.47.26:483][746]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.47.30:164][931]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2021.04.20-22.47.30:297][938]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2021.04.20-22.47.30:572][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.04.20-22.47.31:559][950]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.20-22.47.31:955][950]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Material_029.Material_029
+	Asset Name: /Game/Malzeme_002.Malzeme_002
+	Asset Name: /Game/Malzeme_003.Malzeme_003
+	Asset Name: /Game/Material_006.Material_006
+	Asset Name: /Game/Material_027.Material_027
+	Asset Name: /Game/Material_028.Material_028
+[2021.04.20-22.47.34:148][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.04.20-22.47.35:823][ 57]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2021.04.20-22.47.39:234][372]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.04.20-22.47.40:847][504]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.04.20-22.47.43:583][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Onemlı/battleaxe" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset" SILENT=true
+[2021.04.20-22.47.43:619][713]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/battleaxe06C1719D49B75F47445D769064618CDD.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset'
+[2021.04.20-22.47.43:784][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.20-22.47.43:809][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.04.20-22.47.43:828][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.04.20-22.47.43:870][713]AssetCheck: New page: Asset Save: battleaxe
+[2021.04.20-22.47.43:870][713]LogContentValidation: Display: Validating StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.47.45:500][799]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.47.46:153][799]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.47.46:153][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.47.46:847][799]LogRenderer: Reallocating scene render targets to support 1480x960 Format 10 NumSamples 1 (Frame:1).
+[2021.04.20-22.47.47:874][858]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.04.20-22.47.49:097][930]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.04.20-22.47.50:109][990]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.04.20-22.47.51:977][100]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.47.52:005][100]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.47.52:005][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.47.53:079][171]LogActorFactory: Actor Factory created battleaxe
+[2021.04.20-22.47.54:021][249]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.04.20-22.47.54:398][281]LogActorFactory: Actor Factory created battleaxe
+[2021.04.20-22.47.54:738][308]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.20-22.48.00:712][959]LogEditorViewport: Clicking on Actor (LMB): Blacksmith__2__Cube_005_Blueprint_C (Blacksmith__2__Cube_005_Blueprint)
+[2021.04.20-22.48.02:505][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (battleaxe)
+[2021.04.20-22.48.12:510][196]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.48.12:696][196]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.48.12:696][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.48.22:513][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Onemlı/battleaxe" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset" SILENT=true
+[2021.04.20-22.48.22:535][756]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/battleaxe7841B8BF4158CD2EDCF3AAB280DA84C8.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset'
+[2021.04.20-22.48.22:548][756]AssetCheck: New page: Asset Save: battleaxe
+[2021.04.20-22.48.22:548][756]LogContentValidation: Display: Validating StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.48.24:276][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Onemlı/battleaxe" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset" SILENT=true
+[2021.04.20-22.48.24:292][864]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/battleaxe6E17784B4A08F479F499AEAD82BB4E88.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Content/Onemlı/battleaxe.uasset'
+[2021.04.20-22.48.24:304][864]AssetCheck: New page: Asset Save: battleaxe
+[2021.04.20-22.48.24:304][864]LogContentValidation: Display: Validating StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.48.30:764][268]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.48.30:781][268]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.48.30:789][268]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.48.30:789][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.48.32:091][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (battleaxe)
+[2021.04.20-22.48.33:771][603]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.20-22.48.33:780][603]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.04.20-22.48.33:781][603]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2021.04.20-22.48.33:871][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.04.20-22.48.33:873][603]LogPlayLevel: PlayLevel: Blueprint regeneration took 93 ms (1 blueprints)
+[2021.04.20-22.48.33:873][603]PIE: New page: PIE session: FirstPersonExampleMap (21 Nis 2021 04:48:33)
+[2021.04.20-22.48.33:897][603]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.48.33:912][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014376s)
+[2021.04.20-22.48.33:913][603]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.20-22.48.33:913][603]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001B434853C00), frame # 32603
+[2021.04.20-22.48.33:913][603]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001B47CA1E840), frame # 32603
+[2021.04.20-22.48.33:914][603]LogPlayLevel: PIE: World Init took: (0.001625s)
+[2021.04.20-22.48.33:914][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016266s)
+[2021.04.20-22.48.33:954][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.20-22.48.33:956][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.20-22.48.33:956][603]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.20-22.48.33:956][603]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.20-22.48.33:963][603]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.20-22.48.33:963][603]LogAudioMixer: Display: 1: FrontRight
+[2021.04.20-22.48.33:982][603]LogAudioMixer: Display: Using Audio Device Kulaklıklar (High Definition Audio Device)
+[2021.04.20-22.48.33:982][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.20-22.48.33:982][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.20-22.48.33:982][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.20-22.48.33:983][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.20-22.48.33:994][603]LogInit: FAudioDevice initialized.
+[2021.04.20-22.48.34:003][603]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.20-22.48.34:005][603]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.21-01.48.34
+[2021.04.20-22.48.34:005][603]LogWorld: Bringing up level for play took: 0.001872
+[2021.04.20-22.48.34:005][603]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.04.20-22.48.34:007][603]PIE: Server logged in
+[2021.04.20-22.48.34:008][603]PIE: Play in editor total start time 0,229 seconds.
+[2021.04.20-22.48.47:798][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.48.47:798][240]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.20-22.48.47:798][240]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.48.47:799][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.48.47:803][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.20-22.48.47:806][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.48.47:821][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.20-22.48.47:836][240]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001B47CA1E840), frame # 34240
+[2021.04.20-22.48.47:836][240]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001B434853C00), frame # 34240
+[2021.04.20-22.48.47:838][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.04.20-22.48.47:867][241]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.04.20-22.48.54:690][851]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.48.54:907][851]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.48.54:907][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.48.59:159][135]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.48.59:176][135]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.48.59:185][135]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.48.59:185][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.49.10:041][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blacksmith__2__CoalStoreColumn)
+[2021.04.20-22.49.10:517][370]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2021.04.20-22.49.11:217][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (battleaxe)
+[2021.04.20-22.49.18:738][111]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.20-22.49.29:006][527]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.20-22.49.29:045][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.04.20-22.49.29:074][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Onemlı/battleaxe_Blueprint.battleaxe_Blueprint
+[2021.04.20-22.50.51:209][319]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.50.51:221][319]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.50.51:230][319]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.50.51:230][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.50.52:832][449]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.50.52:993][449]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.50.52:993][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.52.16:211][806]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.20-22.52.16:298][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/FirstPersonExampleMap_Auto1467B23E84226252FE3F75991CD89CE47.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2021.04.20-22.52.16:301][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.111
+[2021.04.20-22.52.16:301][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.111
+[2021.04.20-22.52.16:301][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/FirstPersonCharacter] ([1] browsable assets)...
+[2021.04.20-22.52.16:324][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/FirstPersonCharacter.FirstPersonCharacter]
+[2021.04.20-22.52.16:324][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/FirstPersonCharacter]
+[2021.04.20-22.52.16:380][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/FirstPersonCharacter_Auto1668874704816F8DE95764FB667CF9FFA.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/Blueprint/FirstPersonCharacter_Auto1.uasset'
+[2021.04.20-22.52.16:382][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/hand__1_] ([1] browsable assets)...
+[2021.04.20-22.52.16:395][806]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/hand__1_.hand__1_]
+[2021.04.20-22.52.16:396][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/hand__1_]
+[2021.04.20-22.52.16:396][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hand__1_" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.20-22.52.16:421][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/hand__1__Auto1582EE96A42E6FDC52371FC8D5B8AE59C.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__Auto1.uasset'
+[2021.04.20-22.52.16:422][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hands_V2] ([1] browsable assets)...
+[2021.04.20-22.52.16:434][806]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Hands_V2.Hands_V2]
+[2021.04.20-22.52.16:434][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hands_V2]
+[2021.04.20-22.52.16:434][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hands_V2" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/Hands_V2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.20-22.52.16:440][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Hands_V2_Auto124273B234C00EA54C70196A2D2476DF3.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/Hands_V2_Auto1.uasset'
+[2021.04.20-22.52.16:442][806]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/hand__1__Skeleton] ([1] browsable assets)...
+[2021.04.20-22.52.16:443][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/hand__1__Skeleton]
+[2021.04.20-22.52.16:443][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hand__1__Skeleton" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.20-22.52.16:445][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/hand__1__Skeleton_Auto117BAD8DC41EA21867B10FDAE1BD2585D.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__Skeleton_Auto1.uasset'
+[2021.04.20-22.52.16:446][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/hand__1__PhysicsAsset] ([1] browsable assets)...
+[2021.04.20-22.52.16:459][806]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/hand__1__PhysicsAsset.hand__1__PhysicsAsset]
+[2021.04.20-22.52.16:459][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/hand__1__PhysicsAsset]
+[2021.04.20-22.52.16:459][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/hand__1__PhysicsAsset" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.20-22.52.16:465][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/hand__1__PhysicsAsset_Auto17934E14C41D1A57C032301AD54AA0072.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/hand__1__PhysicsAsset_Auto1.uasset'
+[2021.04.20-22.52.16:466][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Onemlı/battleaxe_Blueprint] ([1] browsable assets)...
+[2021.04.20-22.52.16:478][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Onemlı/battleaxe_Blueprint.battleaxe_Blueprint]
+[2021.04.20-22.52.16:478][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/Onemlı/battleaxe_Blueprint]
+[2021.04.20-22.52.16:478][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Onemlı/battleaxe_Blueprint" FILE="C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/Onemlı/battleaxe_Blueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.04.20-22.52.16:486][806]LogSavePackage: Moving 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/battleaxe_Blueprint_Auto1639F783F4164AA7ADF64899E10BDE0FF.tmp' to 'C:/Users/samet/Documents/RigorGame/rigor6/Saved/Autosaves/Game/Onemlı/battleaxe_Blueprint_Auto1.uasset'
+[2021.04.20-22.52.16:487][806]LogFileHelpers: Auto-saving content packages took 0.185
+[2021.04.20-22.52.42:891][979]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.52.42:916][979]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.52.42:925][979]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.52.42:925][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.52.44:988][117]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.52.45:185][117]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.52.45:185][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.52.47:485][223]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.52.47:503][223]LogSlate: Window 'battleaxe' being destroyed
+[2021.04.20-22.52.47:513][223]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.52.47:513][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.52.50:520][471]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Onemlı/battleaxe_Blueprint.battleaxe_Blueprint
+[2021.04.20-22.52.50:850][471]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.04.20-22.52.50:884][471]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.04.20-22.52.54:054][688]LogSlate: Window 'CompilerResults' being destroyed
+[2021.04.20-22.52.54:069][688]LogSlate: Window 'CompilerResults' being destroyed
+[2021.04.20-22.52.56:220][820]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.52.56:233][820]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.52.56:244][820]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.52.56:244][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.52.58:638][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Onemlı/battleaxe_Blueprint.battleaxe_Blueprint
+[2021.04.20-22.52.58:957][994]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.04.20-22.52.58:980][994]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.04.20-22.53.00:830][124]LogSlate: Window 'CompilerResults' being destroyed
+[2021.04.20-22.53.02:293][240]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.53.02:309][240]LogSlate: Window 'battleaxe_Blueprint' being destroyed
+[2021.04.20-22.53.02:357][240]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.53.02:357][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.53.04:718][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.20-22.53.06:094][361]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.20-22.53.07:386][361]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Onemlı/battleaxe.battleaxe
+[2021.04.20-22.53.07:765][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.20-22.53.07:789][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.04.20-22.53.07:809][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.04.20-22.53.09:227][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.04.20-22.53.10:147][428]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.20-22.53.11:368][428]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Onemlı/battleaxe_Blueprint.battleaxe_Blueprint
+[2021.04.20-22.53.11:561][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.04.20-22.53.11:701][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.04.20-22.53.21:349][514]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\İndirilenler\battleaxe (1).fbx)
+[2021.04.20-22.53.21:358][514]LogFbx: Loading FBX Scene from D:\İndirilenler\battleaxe (1).fbx
+[2021.04.20-22.53.21:365][514]LogFbx: FBX Scene Loaded Succesfully
+[2021.04.20-22.53.22:951][514]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.04.20-22.53.22:971][514]LogFbxMaterialImport: Display: Unable to find Texture file D:\Demirci\barrelTex-Recovered.png
+[2021.04.20-22.53.22:972][514]LogMaterial: Display: Missing cached shader map for material Material_006, compiling. 
+[2021.04.20-22.53.22:984][514]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.04.20-22.53.22:984][514]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.04.20-22.53.22:984][514]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.20-22.53.23:710][514]LogMaterial: Display: Missing cached shader map for material Material_027, compiling. 
+[2021.04.20-22.53.25:781][514]LogMaterial: Display: Missing cached shader map for material Material_028, compiling. 
+[2021.04.20-22.53.26:241][514]LogMaterial: Display: Missing cached shader map for material Material_029, compiling. 
+[2021.04.20-22.53.26:824][514]LogMaterial: Display: Missing cached shader map for material Malzeme_002, compiling. 
+[2021.04.20-22.53.26:983][514]LogMaterial: Display: Missing cached shader map for material Malzeme_003, compiling. 
+[2021.04.20-22.53.26:992][514]LogFbx: Display: Triangulating static mesh BattleAxeHandle
+[2021.04.20-22.53.27:184][514]LogStaticMesh: Building static mesh battleaxe__1_...
+[2021.04.20-22.53.27:216][514]LogStaticMesh: Built static mesh [0.14s] /Game/Onemlı/battleaxe__1_.battleaxe__1_
+[2021.04.20-22.53.27:520][514]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.04.20-22.53.28:624][532]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 75
+[2021.04.20-22.53.31:829][615]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 65
+[2021.04.20-22.53.32:006][627]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 55
+[2021.04.20-22.53.36:472][819]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 45
+[2021.04.20-22.53.37:484][917]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.53.37:497][917]LogSlate: Window 'Message Log' being destroyed
+[2021.04.20-22.53.39:654][ 49]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.04.20-22.53.39:670][ 49]LogActorFactory: Actor Factory created battleaxe__1_
+[2021.04.20-22.53.40:445][120]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.04.20-22.53.40:467][120]LogActorFactory: Actor Factory created battleaxe__1_
+[2021.04.20-22.53.45:386][572]LogEditorViewport: Clicking on Actor (LMB): Blacksmith__2__Cube_005_Blueprint_C (Blacksmith__2__Cube_005_Blueprint)
+[2021.04.20-22.53.46:374][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (battleaxe__1_)
+[2021.04.20-22.53.49:131][907]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.04.20-22.53.49:190][913]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.04.20-22.53.50:973][985]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.04.20-22.53.55:702][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.04.20-22.53.56:060][ 69]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.04.20-22.54.01:545][499]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.04.20-22.54.10:839][499]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.04.20-22.54.10:867][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.04.20-22.54.10:900][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Onemlı/battleaxe__1__Blueprint.battleaxe__1__Blueprint
+[2021.04.20-22.54.15:142][713]LogSlate: Window 'battleaxe__1__Blueprint' being destroyed
+[2021.04.20-22.56.24:120][  1]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.04.20-22.56.24:120][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.20-22.56.33:963][218]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/hand__1_.hand__1_
+[2021.04.20-22.56.34:020][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.04.20-22.56.34:160][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.04.20-22.58.17:621][446]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.04.20-22.58.17:623][446]LogWindows: Windows GetLastError: İşlem başarıyla tamamlandı. (0)
